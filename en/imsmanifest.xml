@@ -1,0 +1,135 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_5yYPe8Dw7Ev" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">How To Change Your Default Shopify Password</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="How_To_Change_Your_Default_Shopify_Password_ORG">
+    <organization identifier="How_To_Change_Your_Default_Shopify_Password_ORG">
+      <title>How To Change Your Default Shopify Password</title>
+      <item identifier="Untitled1_SCO" isvisible="true" identifierref="__5yYPe8Dw7Ev_RES">
+        <title>How To Change Your Default Shopify Password</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__5yYPe8Dw7Ev_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/5ltWCLy1q0c.png" />
+      <file href="story_content/6htaZzzF1sb_44100_48_0.mp3" />
+      <file href="story_content/5dgtqJ6mqV4_captions.js" />
+      <file href="mobile/64OvnVgwu5z.png" />
+      <file href="story_content/5b6GGaR5LWJ_44100_48_0.mp3" />
+      <file href="story_content/62mZslDoU5D_captions.js" />
+      <file href="mobile/5paiwbgd1Uw.png" />
+      <file href="story_content/5VaVsuHpGZp_44100_48_0.mp3" />
+      <file href="story_content/5cnfMINAfTI_captions.js" />
+      <file href="mobile/5nkqMfzB4jJ.png" />
+      <file href="story_content/60Sm9v3a4h9_44100_48_0.mp3" />
+      <file href="story_content/6Zto5cJgcZw_captions.js" />
+      <file href="mobile/67AYyBvxBLA.png" />
+      <file href="story_content/5bHglgWcBYR_44100_48_0.mp3" />
+      <file href="story_content/6SgryS64j02_captions.js" />
+      <file href="mobile/6RH7OpvU3Vj.png" />
+      <file href="mobile/6RH7OpvU3Vj_P_911_1177_225_71.png" />
+      <file href="story_content/5f30Dncpepo_44100_48_0.mp3" />
+      <file href="story_content/68g6rvQpcIg_captions.js" />
+      <file href="mobile/6Sl7uCMmXij.png" />
+      <file href="story_content/6frbUwh7ssm_44100_48_0.mp3" />
+      <file href="story_content/6Q8EmYNAr1H_captions.js" />
+      <file href="mobile/6HEfy15g6FZ.png" />
+      <file href="story_content/6KtfIaSRbHr_44100_48_0.mp3" />
+      <file href="story_content/6NmiD5N0Ywd_captions.js" />
+      <file href="mobile/6Oi8Zebph7K.png" />
+      <file href="story_content/6YDH9Rb0VE9_44100_48_0.mp3" />
+      <file href="story_content/5jnPFvkHjEb_captions.js" />
+      <file href="mobile/6k21WBQPpJV.png" />
+      <file href="story_content/5meBs9xVh9E_44100_48_0.mp3" />
+      <file href="story_content/5kEp2BdwO7R_captions.js" />
+      <file href="mobile/6UmONTog75N.png" />
+      <file href="story_content/612CFWO14d5_44100_48_0.mp3" />
+      <file href="story_content/5jAmuTehSWl_captions.js" />
+      <file href="meta.xml" />
+      <file href="story_content/triggers.js" />
+      <file href="story_content/user.js" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5aaTXYCAJC3.js" />
+      <file href="html5/data/js/5k48PYWgdN8.js" />
+      <file href="html5/data/js/5kfZ4OPrMEL.js" />
+      <file href="html5/data/js/5ZzaVUFVryC.js" />
+      <file href="html5/data/js/64wamqVDGGQ.js" />
+      <file href="html5/data/js/65Rfqv1B0yd.js" />
+      <file href="html5/data/js/6BbuqOaVvkh.js" />
+      <file href="html5/data/js/6KZeK3wEJqq.js" />
+      <file href="html5/data/js/6M6c1GeGHVY.js" />
+      <file href="html5/data/js/6Soxmwcwj8k.js" />
+      <file href="html5/data/js/6ViloaUnAzm.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
